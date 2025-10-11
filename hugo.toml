@@ -1,0 +1,5 @@
+baseURL = 'https://offtheclockmaven.github.io'
+languageCode = 'en-us'
+title = 'Off The Clock Maven'
+theme = "PaperMod" 
+
