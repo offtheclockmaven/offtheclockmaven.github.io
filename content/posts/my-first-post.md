@@ -1,7 +1,7 @@
 ---
 title: "AMD's Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan" # 글 제목
 date: 2025-10-07T14:26:07+09:00
-draft: false # 이 값을 false로 변경해야 글이 공개됩니다.
+draft: false 
 ---
 
 ## Introduction: A New AI Titan Emerges
