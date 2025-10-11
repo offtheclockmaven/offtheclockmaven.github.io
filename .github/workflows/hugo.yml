@@ -23,7 +23,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.119.0 # 원하는 Hugo 버전 지정
+      HUGO_VERSION: 0.119.0
     steps:
       - name: Install Hugo CLI
         run: |
