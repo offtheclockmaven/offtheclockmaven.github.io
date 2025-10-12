@@ -1,0 +1,13 @@
+/* 1. Pretendard 폰트 불러오기 (Import) */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');
+
+/* 2. 사이트 전체에 Pretendard 폰트 적용 */
+body, h1, h2, h3, h4, h5, h6, input, textarea, select, button {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* 코드 블록은 가독성을 위해 D2Coding과 같은 고정폭 글꼴을 유지하는 것이 좋습니다. */
+code, pre {
+    font-family: 'D2Coding', 'Consolas', 'monaco', 'monospace';
+}

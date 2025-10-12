@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-07T14:26:07+09:00</lastmod>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-07T14:26:07+09:00</lastmod>
+    <loc>http://localhost:1313/tags/amd/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-10-07T14:26:07+09:00</lastmod>
+    <loc>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gpu/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/instinct-mi450/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/investment-analysis/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nvidia/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/openai/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/semiconductors/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-analysis/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/valuation/</loc>
+    <lastmod>2025-10-12T08:21:00+09:00</lastmod>
   </url>
 </urlset>

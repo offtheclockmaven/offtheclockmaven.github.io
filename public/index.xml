@@ -6,15 +6,14 @@
     <description>Recent content on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 14:26:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 08:21:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AMD&#39;s Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 07 Oct 2025 14:26:07 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction-a-new-ai-titan-emerges&#34;&gt;Introduction: A New AI Titan Emerges&lt;/h2&gt;
-&lt;p&gt;On October 6th, 2025, the market was jolted into a radical re-evaluation of the semiconductor landscape. AMD&amp;rsquo;s stock (NASDAQ: AMD) surged by an astonishing 24% in a single session, a move of seismic proportions for a company of its scale. The catalyst was not an earnings beat or a minor product launch, but a landmark strategic partnership with OpenAI, the undisputed leader in artificial intelligence research and deployment. This alliance was more than a major sales contract; it was a coronation, an anointment that signaled AMD had finally arrived as a top-tier player in the most critical technological race of the 21st century.  &lt;/p&gt;</description>
+      <link>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</link>
+      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</guid>
+      <description>A deep-dive analysis of the landmark AMD-OpenAI partnership, its financial impact, and a data-driven valuation of AMD as a new titan in the AI hardware market.</description>
     </item>
   </channel>
 </rss>

@@ -6,19 +6,14 @@
     <description>Recent content in Posts on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 14:26:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 08:21:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>나의 첫 포스트</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 07 Oct 2025 14:26:07 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;안녕하세요&#34;&gt;안녕하세요!&lt;/h2&gt;
-&lt;p&gt;여기는 제 첫 번째 Hugo 포스트입니다. 마크다운 문법을 사용하여 자유롭게 글을 작성할 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;목록 1&lt;/li&gt;
-&lt;li&gt;목록 2&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <title>AMD&#39;s Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan</title>
+      <link>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</link>
+      <pubDate>Sun, 12 Oct 2025 08:21:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</guid>
+      <description>A deep-dive analysis of the landmark AMD-OpenAI partnership, its financial impact, and a data-driven valuation of AMD as a new titan in the AI hardware market.</description>
     </item>
   </channel>
 </rss>

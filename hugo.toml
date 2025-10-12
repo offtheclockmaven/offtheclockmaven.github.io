@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Off The Clock Maven'
 theme = "PaperMod" 
 
+[params]
+  customCSS = ["css/custom.css"]
