@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bad News Is Good News on Off The Clock Maven</title>
+    <link>http://localhost:1313/tags/bad-news-is-good-news/</link>
+    <description>Recent content in Bad News Is Good News on Off The Clock Maven</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Oct 2025 08:21:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bad-news-is-good-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Fog: Why a Data Blackout Has the Market Betting on the Fed&#39;s Hand</title>
+      <link>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</link>
+      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</guid>
+      <description>An analysis of how the U.S. government shutdown creates a data vacuum, forcing the Federal Reserve into a dovish stance, and why markets are rallying on this &amp;#39;bad news is good news&amp;#39; logic.</description>
+    </item>
+  </channel>
+</rss>
