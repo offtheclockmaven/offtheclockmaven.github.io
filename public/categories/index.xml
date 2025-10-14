@@ -6,41 +6,62 @@
     <description>Recent content in Categories on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Oct 2025 08:21:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 13:15:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Economics</title>
-      <link>http://localhost:1313/categories/economics/</link>
-      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>http://localhost:1313/categories/economics/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Investment Analysis</title>
       <link>http://localhost:1313/categories/investment-analysis/</link>
-      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/investment-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macroeconomics</title>
+      <link>http://localhost:1313/categories/macroeconomics/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/macroeconomics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market Commentary</title>
+      <link>http://localhost:1313/categories/market-commentary/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/market-commentary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy</title>
+      <link>http://localhost:1313/categories/energy/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/categories/economics/</link>
+      <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Analysis</title>
       <link>http://localhost:1313/categories/market-analysis/</link>
-      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
+      <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/market-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Monetary Policy</title>
       <link>http://localhost:1313/categories/monetary-policy/</link>
-      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
+      <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/monetary-policy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
-      <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
   </channel>

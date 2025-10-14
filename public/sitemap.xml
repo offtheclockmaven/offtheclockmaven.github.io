@@ -2,34 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/apple/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cpi/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/federal-reserve/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fomc/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hedging/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/investment-analysis/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/investor-sentiment/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/macroeconomics/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/magnificent-seven/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/market-commentary/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/market-cycle/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microsoft/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nfp/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nvidia/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/online-forums/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/recession/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-valuation/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vix/</loc>
+    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bloom-energy/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cooling-systems/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-centers/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/eaton/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/energy/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/energy-crisis/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/schneider-electric/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/smr/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-analysis/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/valuation/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vertiv/</loc>
+    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bad-news-is-good-news/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/economics/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/government-shutdown/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/interest-rates/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/market-analysis/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/monetary-policy/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-market/</loc>
+    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/amd/</loc>
     <lastmod>2025-10-06T08:21:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bad-news-is-good-news/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cpi/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/economics/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/federal-reserve/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fomc/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/government-shutdown/</loc>
     <lastmod>2025-10-06T08:21:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gpu/</loc>
@@ -38,52 +149,10 @@
     <loc>http://localhost:1313/tags/instinct-mi450/</loc>
     <lastmod>2025-10-06T08:21:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/interest-rates/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/investment-analysis/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/market-analysis/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/monetary-policy/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nfp/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nvidia/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/openai/</loc>
     <lastmod>2025-10-06T08:21:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/semiconductors/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stock-analysis/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stock-market/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/valuation/</loc>
     <lastmod>2025-10-06T08:21:00+09:00</lastmod>
   </url>
 </urlset>
