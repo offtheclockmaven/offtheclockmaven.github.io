@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Energy Crisis on Off The Clock Maven</title>
-    <link>http://localhost:1313/tags/energy-crisis/</link>
+    <link>https://offtheclockmaven.github.io/tags/energy-crisis/</link>
     <description>Recent content in Energy Crisis on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 10:31:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/energy-crisis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://offtheclockmaven.github.io/tags/energy-crisis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The AI Energy Crisis: A Deep Dive into the Trillion-Dollar Power Problem</title>
-      <link>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</link>
+      <link>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</link>
       <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</guid>
       <description>A comprehensive analysis of the AI-induced energy crisis, exploring the market cycle, key corporate players in cooling and power, their financial health, and the long-term solutions like SMRs.</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stock Analysis on Off The Clock Maven</title>
-    <link>http://localhost:1313/tags/stock-analysis/</link>
+    <link>https://offtheclockmaven.github.io/tags/stock-analysis/</link>
     <description>Recent content in Stock Analysis on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Oct 2025 11:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stock-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://offtheclockmaven.github.io/tags/stock-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The GLP-1 Revolution: An Investor&#39;s Guide to the Trillion-Dollar Reshuffling</title>
-      <link>http://localhost:1313/posts/glp-1-ozempic-effect-economic-analysis/</link>
+      <link>https://offtheclockmaven.github.io/posts/glp-1-ozempic-effect-economic-analysis/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/glp-1-ozempic-effect-economic-analysis/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/glp-1-ozempic-effect-economic-analysis/</guid>
       <description>A deep-dive analysis into the GLP-1 drug phenomenon, exploring the pharma arms race, the expansion into new diseases like Alzheimer&amp;#39;s, and the disruptive second-order effects on the food, medical device, and healthcare industries.</description>
     </item>
     <item>
       <title>The AI Energy Crisis: A Deep Dive into the Trillion-Dollar Power Problem</title>
-      <link>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</link>
+      <link>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</link>
       <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</guid>
       <description>A comprehensive analysis of the AI-induced energy crisis, exploring the market cycle, key corporate players in cooling and power, their financial health, and the long-term solutions like SMRs.</description>
     </item>
     <item>
       <title>AMD&#39;s Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan</title>
-      <link>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</link>
+      <link>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</guid>
       <description>A deep-dive analysis of the landmark AMD-OpenAI partnership, its financial impact, and a data-driven valuation of AMD as a new titan in the AI hardware market.</description>
     </item>
   </channel>

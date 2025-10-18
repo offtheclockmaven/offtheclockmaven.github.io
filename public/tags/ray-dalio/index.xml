@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ray Dalio on Off The Clock Maven</title>
-    <link>http://localhost:1313/tags/ray-dalio/</link>
+    <link>https://offtheclockmaven.github.io/tags/ray-dalio/</link>
     <description>Recent content in Ray Dalio on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 12:10:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ray-dalio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://offtheclockmaven.github.io/tags/ray-dalio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Great Re-Pricing: Decoding Gold&#39;s Endgame in a World of Fiat Fatigue</title>
-      <link>http://localhost:1313/posts/the-great-re-pricing-decoding-golds-endgame/</link>
+      <link>https://offtheclockmaven.github.io/posts/the-great-re-pricing-decoding-golds-endgame/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/the-great-re-pricing-decoding-golds-endgame/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/the-great-re-pricing-decoding-golds-endgame/</guid>
       <description>An in-depth analysis of the 2025 gold rally, exploring the structural shift driven by central bank de-dollarization, the &amp;#39;debasement trade&amp;#39; thesis from macro investors, peak gold supply constraints, and the future of gold&amp;#39;s role in a changing global financial system.</description>
     </item>
   </channel>

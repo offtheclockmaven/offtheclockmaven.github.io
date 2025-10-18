@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chile on Off The Clock Maven</title>
-    <link>http://localhost:1313/tags/chile/</link>
+    <link>https://offtheclockmaven.github.io/tags/chile/</link>
     <description>Recent content in Chile on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 03:10:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/chile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://offtheclockmaven.github.io/tags/chile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>White Gold, Red Ink: Navigating the Great Lithium Hangover of 2025</title>
-      <link>http://localhost:1313/posts/lithium-market-hangover-geopolitics-china/</link>
+      <link>https://offtheclockmaven.github.io/posts/lithium-market-hangover-geopolitics-china/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/lithium-market-hangover-geopolitics-china/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/lithium-market-hangover-geopolitics-china/</guid>
       <description>A deep-dive analysis into the 2023-2025 lithium market crash, exploring the supply glut, China&amp;#39;s supply chain dominance, the West&amp;#39;s policy response, and the technological game-changers reshaping the industry.</description>
     </item>
     <item>
       <title>Lithium&#39;s Great Game: Deconstructing the &#39;New OPEC&#39; Myth and China&#39;s Stranglehold</title>
-      <link>http://localhost:1313/posts/lithium-geopolitics-opec-myth-china-dominance/</link>
+      <link>https://offtheclockmaven.github.io/posts/lithium-geopolitics-opec-myth-china-dominance/</link>
       <pubDate>Thu, 16 Oct 2025 15:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/lithium-geopolitics-opec-myth-china-dominance/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/lithium-geopolitics-opec-myth-china-dominance/</guid>
       <description>A deep-dive analysis into the geopolitics of lithium, debunking the &amp;#39;Lithium OPEC&amp;#39; theory by examining the fractured politics of South America&amp;#39;s Lithium Triangle and exposing China&amp;#39;s strategic dominance over the global supply chain.</description>
     </item>
   </channel>

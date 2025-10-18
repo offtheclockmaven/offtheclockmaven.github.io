@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FOMC on Off The Clock Maven</title>
-    <link>http://localhost:1313/tags/fomc/</link>
+    <link>https://offtheclockmaven.github.io/tags/fomc/</link>
     <description>Recent content in FOMC on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 13:15:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fomc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://offtheclockmaven.github.io/tags/fomc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the 2025 Market Maze from the Fed to Main Street</title>
-      <link>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</link>
+      <link>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</link>
       <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</guid>
       <description>A comprehensive deep-dive into the 2025 market cycle, synthesizing macroeconomic data (inflation, employment), investor sentiment from Wall Street to Main Street, and fundamental valuations of key stocks to provide a holistic investment outlook and actionable strategies.</description>
     </item>
     <item>
       <title>Navigating the Fog: Why a Data Blackout Has the Market Betting on the Fed&#39;s Hand</title>
-      <link>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</link>
+      <link>https://offtheclockmaven.github.io/posts/government-shutdown-fed-dilemma-market-reaction/</link>
       <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/government-shutdown-fed-dilemma-market-reaction/</guid>
       <description>An analysis of how the U.S. government shutdown creates a data vacuum, forcing the Federal Reserve into a dovish stance, and why markets are rallying on this &amp;#39;bad news is good news&amp;#39; logic.</description>
     </item>
   </channel>

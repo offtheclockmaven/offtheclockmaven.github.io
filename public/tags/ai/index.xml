@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on Off The Clock Maven</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://offtheclockmaven.github.io/tags/ai/</link>
     <description>Recent content in AI on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 21:10:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://offtheclockmaven.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond the Bubble: Deconstructing Market Concentration in the AI Era</title>
-      <link>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</link>
+      <link>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</guid>
       <description>An in-depth analysis of the historic S&amp;amp;P 500 market concentration in the AI era. This report deconstructs why today&amp;#39;s market, led by the Magnificent 7, is fundamentally different from the dot-com bubble, focusing on profitability and cash flow. It explores the risks of high valuations and offers strategic investment insights for navigating a top-heavy market.</description>
     </item>
     <item>
       <title>The AI Energy Crisis: A Deep Dive into the Trillion-Dollar Power Problem</title>
-      <link>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</link>
+      <link>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</link>
       <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</guid>
       <description>A comprehensive analysis of the AI-induced energy crisis, exploring the market cycle, key corporate players in cooling and power, their financial health, and the long-term solutions like SMRs.</description>
     </item>
     <item>
       <title>AMD&#39;s Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan</title>
-      <link>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</link>
+      <link>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</guid>
+      <guid>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</guid>
       <description>A deep-dive analysis of the landmark AMD-OpenAI partnership, its financial impact, and a data-driven valuation of AMD as a new titan in the AI hardware market.</description>
     </item>
   </channel>
