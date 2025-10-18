@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Market Analysis on Off The Clock Maven</title>
+    <link>http://localhost:1313/tags/market-analysis/</link>
+    <description>Recent content in Market Analysis on Off The Clock Maven</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 15:10:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/market-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Agency Revolution: A Strategist&#39;s Deep Dive into the AI Gold Rush of 2025</title>
+      <link>http://localhost:1313/posts/agentic-ai-revolution-2025-strategic-deep-dive/</link>
+      <pubDate>Fri, 17 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/agentic-ai-revolution-2025-strategic-deep-dive/</guid>
+      <description>A comprehensive deep dive into the 2025 Agentic AI revolution. This analysis dissects the market trajectory, the competing strategies of Microsoft, Google, OpenAI, and Adept AI, and explores the implications for AGI, global regulation, and the future of work.</description>
+    </item>
+  </channel>
+</rss>

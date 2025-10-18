@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nuclear Fusion on Off The Clock Maven</title>
+    <link>http://localhost:1313/tags/nuclear-fusion/</link>
+    <description>Recent content in Nuclear Fusion on Off The Clock Maven</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 11:56:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nuclear-fusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fusion Revolution: Why Big Tech and Billionaires Are Betting the Planet on Bottling a Star</title>
+      <link>http://localhost:1313/posts/fusion-revolution-why-big-tech-is-betting-on-bottling-a-star/</link>
+      <pubDate>Fri, 17 Oct 2025 11:56:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/fusion-revolution-why-big-tech-is-betting-on-bottling-a-star/</guid>
+      <description>An in-depth analysis of the commercial nuclear fusion energy revolution, exploring the scientific breakthroughs, key private companies like Commonwealth Fusion Systems and Helion, the multi-billion dollar investment boom driven by AI&amp;#39;s power demands, and the emerging geopolitical race between the U.S. and China.</description>
+    </item>
+  </channel>
+</rss>

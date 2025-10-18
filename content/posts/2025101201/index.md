@@ -42,7 +42,7 @@ The October 6 announcement was a genuine paradigm shift for AI hardware. AMD rev
 
 ### More Than a Purchase Order — It’s a Strategic Endorsement
 
-Treating this like a simple PO misses the plot. This is the world’s most influential AI company publicly validating AMD’s roadmap. Nvidia has long dominated AI training; this deal cracks that narrative. OpenAI CEO Sam Altman put it plainly: “AMD’s leadership in high-performance chips will enable us to accelerate progress and bring the benefits of advanced AI to everyone faster.”
+Treating this like a simple PO misses the plot. This is the world’s most influential AI company publicly validating AMD’s roadmap. Nvidia has long dominated AI training; this deal cracks that narrative. OpenAI CEO Sam Altman put it plainly: "AMD’s leadership in high-performance chips will enable us to accelerate progress and bring the benefits of advanced AI to everyone faster.”
 
 Net/net: AMD now stands as a credible, high-performance alternative, turning the AI accelerator market into a real two-horse race.
 
@@ -54,13 +54,13 @@ Result: OpenAI isn’t just a customer; it’s financially aligned with AMD’s 
 
 ---
 
-## Section 2: The “OpenAI Windfall” — Back-of-the-Envelope Profit Math
+## Section 2: The "OpenAI Windfall” — Back-of-the-Envelope Profit Math
 
 Let’s put numbers to the re-rating, using management commentary and recent disclosures.
 
 ### Step 1: Revenue
 
-AMD’s CFO Jean Hu guided to “tens of billions” from the partnership. Using data-center norms, a conservative $5–$7B per gigawatt gets you:
+AMD’s CFO Jean Hu guided to "tens of billions” from the partnership. Using data-center norms, a conservative $5–$7B per gigawatt gets you:
 
 - **Low end:** 6 GW × $5B/GW = **$30B**
     
@@ -127,7 +127,7 @@ A one-off **$800M** inventory write-down tied to the MI308 (due to new U.S. expo
 - **Embedded:** **$824M** (−4% YoY)
     
 
-Client posted a record on “Zen 5” Ryzen. Gaming was hot. Most important: **Data Center** grew despite weaker AI GPU revenue (MI308 China halt; transition to MI350). Growth was carried by record **EPYC** CPU sales—**33rd** consecutive quarter of share gains. With next-gen accelerators ramping in late ’25 into ’26 (and the OpenAI build), Data Center has both engines primed.
+Client posted a record on "Zen 5” Ryzen. Gaming was hot. Most important: **Data Center** grew despite weaker AI GPU revenue (MI308 China halt; transition to MI350). Growth was carried by record **EPYC** CPU sales—**33rd** consecutive quarter of share gains. With next-gen accelerators ramping in late ’25 into ’26 (and the OpenAI build), Data Center has both engines primed.
 
 ---
 
@@ -197,6 +197,6 @@ The T. Rowe move is especially telling—classic growth investor behavior: buy a
 
 The OpenAI partnership is transformative. It validates AMD’s AI bets, lays out a path to **tens of billions** in high-margin revenue, and cements AMD as the only credible high-performance alternative to Nvidia at the very top of AI deployment. Underneath, EPYC keeps compounding share, and Client is back to records—so the core is sturdy.
 
-Valuation isn’t “underdog” anymore, but still reasonable against the upside if AMD executes. The to-do list is clear: nail the supply chain ramp, keep pushing ROCm, and navigate geopolitics with care.
+Valuation isn’t "underdog” anymore, but still reasonable against the upside if AMD executes. The to-do list is clear: nail the supply chain ramp, keep pushing ROCm, and navigate geopolitics with care.
 
 Bottom line: optimism is largely warranted. Nvidia likely stays #1, but the AI buildout is big enough for a strong, profitable #2—and this deal is AMD’s proof of arrival.

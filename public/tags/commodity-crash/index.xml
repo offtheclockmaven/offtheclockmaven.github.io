@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Commodity Crash on Off The Clock Maven</title>
+    <link>http://localhost:1313/tags/commodity-crash/</link>
+    <description>Recent content in Commodity Crash on Off The Clock Maven</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 03:10:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/commodity-crash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>White Gold, Red Ink: Navigating the Great Lithium Hangover of 2025</title>
+      <link>http://localhost:1313/posts/lithium-market-hangover-geopolitics-china/</link>
+      <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/lithium-market-hangover-geopolitics-china/</guid>
+      <description>A deep-dive analysis into the 2023-2025 lithium market crash, exploring the supply glut, China&amp;#39;s supply chain dominance, the West&amp;#39;s policy response, and the technological game-changers reshaping the industry.</description>
+    </item>
+  </channel>
+</rss>
