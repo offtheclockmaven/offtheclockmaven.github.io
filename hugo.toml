@@ -1,8 +1,53 @@
-baseURL = 'https://offtheclockmaven.github.io/'
-languageCode = 'en-us'
-title = 'Off The Clock Maven'
-theme = "PaperMod" 
-enableRobotsTXT = true
+# --- 기본 사이트 설정 ---
+baseURL = "https://offtheclockmaven.github.io/"
+languageCode = "en-us"
+title = "Off The Clock Maven" # 브라우저 탭 및 검색 결과에 표시됨
+theme = "PaperMod"
 
+# --- 검색엔진 최적화(SEO) 및 기능 활성화 ---
+enableRobotsTXT = true
+googleAnalytics = "G-TXDS39534Y"
+
+# RSS 피드, 검색(JSON) 기능 활성화
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# --- PaperMod 테마 상세 설정 [params] ---
 [params]
-  customCSS = ["css/custom.css"]
+  # [필수] 사이트 설명 (검색 엔진 결과에 표시됨)
+  description = "In-depth stock market analysis, investment insights, and columns by Off The Clock Maven."
+  
+  # [필수] 작성자 이름
+  author = "Off The Clock Maven"
+  
+  # 기본 테마 (auto: 방문자 시스템 설정 따름, "light" 또는 "dark"로 강제 가능)
+  defaultTheme = "auto"
+  
+  # 게시글 메타데이터 표시
+  ShowReadingTime = true    # 읽기 시간
+  ShowShareButtons = true   # 소셜 공유 버튼
+  ShowPostNavLinks = true   # 이전/다음 글 링크
+  ShowBreadCrumbs = true    # 페이지 경로 (예: Home > Posts > My Post)
+  
+  # 블로그 글이 있는 기본 섹션 설정 (홈페이지에 글 목록을 표시하기 위해)
+  # /content/posts/ 폴더에 글을 작성한다고 가정합니다.
+  mainSections = ["posts"]
+
+  # --- 파비콘(Favicon) 및 에셋 설정 ---
+  [params.assets]
+    # 사용자 정의 CSS (기존 설정 유지)
+    customCSS = ["css/custom.css"]
+    
+    # 파비콘 설정 ( /static/ 폴더에 해당 파일들을 위치시키세요)
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+
+# --- 헤더 메뉴 설정 ---
+[menu]
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags" # 태그
+    url = "/tags/"
+    weight = 30

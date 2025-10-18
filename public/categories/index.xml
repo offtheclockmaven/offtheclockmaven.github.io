@@ -6,12 +6,12 @@
     <description>Recent content in Categories on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 01:10:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 03:10:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Investing Strategy</title>
       <link>http://localhost:1313/categories/investing-strategy/</link>
-      <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
+      <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/investing-strategy/</guid>
       <description></description>
     </item>
@@ -25,14 +25,14 @@
     <item>
       <title>Investment Analysis</title>
       <link>http://localhost:1313/categories/investment-analysis/</link>
-      <pubDate>Fri, 17 Oct 2025 18:10:00 +0900</pubDate>
+      <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/investment-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
       <link>http://localhost:1313/categories/artificial-intelligence/</link>
-      <pubDate>Fri, 17 Oct 2025 15:10:00 +0900</pubDate>
+      <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
@@ -41,13 +41,6 @@
       <link>http://localhost:1313/categories/market-analysis/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/market-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Energy</title>
-      <link>http://localhost:1313/categories/energy/</link>
-      <pubDate>Fri, 17 Oct 2025 11:56:00 +0900</pubDate>
-      <guid>http://localhost:1313/categories/energy/</guid>
       <description></description>
     </item>
     <item>
@@ -67,14 +60,14 @@
     <item>
       <title>Healthcare</title>
       <link>http://localhost:1313/categories/healthcare/</link>
-      <pubDate>Wed, 15 Oct 2025 11:00:00 +0900</pubDate>
+      <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Pharmaceuticals</title>
       <link>http://localhost:1313/categories/pharmaceuticals/</link>
-      <pubDate>Wed, 15 Oct 2025 11:00:00 +0900</pubDate>
+      <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/pharmaceuticals/</guid>
       <description></description>
     </item>
@@ -90,6 +83,13 @@
       <link>http://localhost:1313/categories/market-commentary/</link>
       <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/market-commentary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy</title>
+      <link>http://localhost:1313/categories/energy/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/energy/</guid>
       <description></description>
     </item>
     <item>
