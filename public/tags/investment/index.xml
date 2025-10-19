@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Investment on Off The Clock Maven</title>
+    <link>http://localhost:1313/tags/investment/</link>
+    <description>Recent content in Investment on Off The Clock Maven</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Oct 2025 15:10:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/investment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Centers: The New Digital Real Estate and Your Guide to the AI Gold Rush</title>
+      <link>http://localhost:1313/posts/data-center-reits-ai-investment-analysis-dlr-eqix/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/data-center-reits-ai-investment-analysis-dlr-eqix/</guid>
+      <description>An in-depth analysis of data center REITs as a prime investment for the AI era. This report compares industry giants Digital Realty (DLR) and Equinix (EQIX), examining the market supercycle driven by hyperscaler CAPEX, technological shifts to liquid cooling, and the critical role of power infrastructure.</description>
+    </item>
+  </channel>
+</rss>

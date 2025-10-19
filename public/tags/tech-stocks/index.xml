@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech Stocks on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/tech-stocks/</link>
+    <link>http://localhost:1313/tags/tech-stocks/</link>
     <description>Recent content in Tech Stocks on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 21:10:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/tech-stocks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tech-stocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond the Bubble: Deconstructing Market Concentration in the AI Era</title>
-      <link>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</link>
+      <link>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</guid>
+      <guid>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</guid>
       <description>An in-depth analysis of the historic S&amp;amp;P 500 market concentration in the AI era. This report deconstructs why today&amp;#39;s market, led by the Magnificent 7, is fundamentally different from the dot-com bubble, focusing on profitability and cash flow. It explores the risks of high valuations and offers strategic investment insights for navigating a top-heavy market.</description>
+    </item>
+    <item>
+      <title>Data Centers: The New Digital Real Estate and Your Guide to the AI Gold Rush</title>
+      <link>http://localhost:1313/posts/data-center-reits-ai-investment-analysis-dlr-eqix/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/data-center-reits-ai-investment-analysis-dlr-eqix/</guid>
+      <description>An in-depth analysis of data center REITs as a prime investment for the AI era. This report compares industry giants Digital Realty (DLR) and Equinix (EQIX), examining the market supercycle driven by hyperscaler CAPEX, technological shifts to liquid cooling, and the critical role of power infrastructure.</description>
     </item>
   </channel>
 </rss>

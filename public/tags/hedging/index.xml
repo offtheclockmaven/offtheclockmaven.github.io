@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hedging on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/hedging/</link>
+    <link>http://localhost:1313/tags/hedging/</link>
     <description>Recent content in Hedging on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 13:15:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/hedging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hedging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the 2025 Market Maze from the Fed to Main Street</title>
-      <link>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</link>
+      <link>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</link>
       <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</guid>
+      <guid>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</guid>
       <description>A comprehensive deep-dive into the 2025 market cycle, synthesizing macroeconomic data (inflation, employment), investor sentiment from Wall Street to Main Street, and fundamental valuations of key stocks to provide a holistic investment outlook and actionable strategies.</description>
     </item>
   </channel>

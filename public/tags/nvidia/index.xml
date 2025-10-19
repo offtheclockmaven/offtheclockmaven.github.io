@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nvidia on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/nvidia/</link>
+    <link>http://localhost:1313/tags/nvidia/</link>
     <description>Recent content in Nvidia on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 13:15:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 15:10:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Infrastructure: The Real Battlegrounds in Power, Cooling, &amp; Networking</title>
+      <link>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</guid>
+      <description>An in-depth investment analysis of the critical AI infrastructure market, focusing on the power and cooling bottleneck (Vertiv) and the networking battle between Ethernet (Arista) and InfiniBand (Nvidia).</description>
+    </item>
     <item>
       <title>Navigating the 2025 Market Maze from the Fed to Main Street</title>
-      <link>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</link>
+      <link>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</link>
       <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</guid>
+      <guid>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</guid>
       <description>A comprehensive deep-dive into the 2025 market cycle, synthesizing macroeconomic data (inflation, employment), investor sentiment from Wall Street to Main Street, and fundamental valuations of key stocks to provide a holistic investment outlook and actionable strategies.</description>
     </item>
     <item>
       <title>AMD&#39;s Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan</title>
-      <link>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</link>
+      <link>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</guid>
+      <guid>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</guid>
       <description>A deep-dive analysis of the landmark AMD-OpenAI partnership, its financial impact, and a data-driven valuation of AMD as a new titan in the AI hardware market.</description>
     </item>
   </channel>

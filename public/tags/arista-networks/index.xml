@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arista Networks on Off The Clock Maven</title>
+    <link>http://localhost:1313/tags/arista-networks/</link>
+    <description>Recent content in Arista Networks on Off The Clock Maven</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Oct 2025 15:10:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/arista-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Infrastructure: The Real Battlegrounds in Power, Cooling, &amp; Networking</title>
+      <link>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</guid>
+      <description>An in-depth investment analysis of the critical AI infrastructure market, focusing on the power and cooling bottleneck (Vertiv) and the networking battle between Ethernet (Arista) and InfiniBand (Nvidia).</description>
+    </item>
+  </channel>
+</rss>

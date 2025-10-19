@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stock Market on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/stock-market/</link>
+    <link>http://localhost:1313/tags/stock-market/</link>
     <description>Recent content in Stock Market on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 03:10:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/stock-market/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stock-market/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Strategic Framework for Investors: A Scenario-Based Decision-Making Guide</title>
-      <link>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</link>
+      <link>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</guid>
+      <guid>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</guid>
       <description>An in-depth guide for global investors on advanced decision-making. Learn to distinguish market dips from &amp;#39;falling knives,&amp;#39; master sell strategies, value high-growth unprofitable companies, and navigate cognitive biases in narrative-driven markets.</description>
     </item>
     <item>
+      <title>AI Infrastructure: The Real Battlegrounds in Power, Cooling, &amp; Networking</title>
+      <link>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</guid>
+      <description>An in-depth investment analysis of the critical AI infrastructure market, focusing on the power and cooling bottleneck (Vertiv) and the networking battle between Ethernet (Arista) and InfiniBand (Nvidia).</description>
+    </item>
+    <item>
       <title>Navigating the Fog: Why a Data Blackout Has the Market Betting on the Fed&#39;s Hand</title>
-      <link>https://offtheclockmaven.github.io/posts/government-shutdown-fed-dilemma-market-reaction/</link>
+      <link>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</link>
       <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/government-shutdown-fed-dilemma-market-reaction/</guid>
+      <guid>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</guid>
       <description>An analysis of how the U.S. government shutdown creates a data vacuum, forcing the Federal Reserve into a dovish stance, and why markets are rallying on this &amp;#39;bad news is good news&amp;#39; logic.</description>
     </item>
   </channel>

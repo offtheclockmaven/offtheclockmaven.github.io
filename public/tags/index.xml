@@ -2,724 +2,885 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 03:10:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Behavioral Finance</title>
-      <link>https://offtheclockmaven.github.io/tags/behavioral-finance/</link>
+      <link>http://localhost:1313/tags/behavioral-finance/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/behavioral-finance/</guid>
+      <guid>http://localhost:1313/tags/behavioral-finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Buy the Dip</title>
-      <link>https://offtheclockmaven.github.io/tags/buy-the-dip/</link>
+      <link>http://localhost:1313/tags/buy-the-dip/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/buy-the-dip/</guid>
+      <guid>http://localhost:1313/tags/buy-the-dip/</guid>
       <description></description>
     </item>
     <item>
       <title>Cognitive Bias</title>
-      <link>https://offtheclockmaven.github.io/tags/cognitive-bias/</link>
+      <link>http://localhost:1313/tags/cognitive-bias/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/cognitive-bias/</guid>
+      <guid>http://localhost:1313/tags/cognitive-bias/</guid>
       <description></description>
     </item>
     <item>
       <title>Exit Strategy</title>
-      <link>https://offtheclockmaven.github.io/tags/exit-strategy/</link>
+      <link>http://localhost:1313/tags/exit-strategy/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/exit-strategy/</guid>
+      <guid>http://localhost:1313/tags/exit-strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Falling Knife</title>
-      <link>https://offtheclockmaven.github.io/tags/falling-knife/</link>
+      <link>http://localhost:1313/tags/falling-knife/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/falling-knife/</guid>
+      <guid>http://localhost:1313/tags/falling-knife/</guid>
       <description></description>
     </item>
     <item>
       <title>Growth Investing</title>
-      <link>https://offtheclockmaven.github.io/tags/growth-investing/</link>
+      <link>http://localhost:1313/tags/growth-investing/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/growth-investing/</guid>
+      <guid>http://localhost:1313/tags/growth-investing/</guid>
       <description></description>
     </item>
     <item>
       <title>Investment Analysis</title>
-      <link>https://offtheclockmaven.github.io/tags/investment-analysis/</link>
+      <link>http://localhost:1313/tags/investment-analysis/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/investment-analysis/</guid>
+      <guid>http://localhost:1313/tags/investment-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Risk Management</title>
-      <link>https://offtheclockmaven.github.io/tags/risk-management/</link>
+      <link>http://localhost:1313/tags/risk-management/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/risk-management/</guid>
+      <guid>http://localhost:1313/tags/risk-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Stock Market</title>
-      <link>https://offtheclockmaven.github.io/tags/stock-market/</link>
+      <link>http://localhost:1313/tags/stock-market/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/stock-market/</guid>
+      <guid>http://localhost:1313/tags/stock-market/</guid>
       <description></description>
     </item>
     <item>
       <title>Valuation</title>
-      <link>https://offtheclockmaven.github.io/tags/valuation/</link>
+      <link>http://localhost:1313/tags/valuation/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/valuation/</guid>
+      <guid>http://localhost:1313/tags/valuation/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://offtheclockmaven.github.io/tags/automation/</link>
+      <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/automation/</guid>
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>CHIPS Act</title>
-      <link>https://offtheclockmaven.github.io/tags/chips-act/</link>
+      <link>http://localhost:1313/tags/chips-act/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/chips-act/</guid>
+      <guid>http://localhost:1313/tags/chips-act/</guid>
       <description></description>
     </item>
     <item>
       <title>Friendshoring</title>
-      <link>https://offtheclockmaven.github.io/tags/friendshoring/</link>
+      <link>http://localhost:1313/tags/friendshoring/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/friendshoring/</guid>
+      <guid>http://localhost:1313/tags/friendshoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Geopolitics</title>
-      <link>https://offtheclockmaven.github.io/tags/geopolitics/</link>
+      <link>http://localhost:1313/tags/geopolitics/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/geopolitics/</guid>
+      <guid>http://localhost:1313/tags/geopolitics/</guid>
       <description></description>
     </item>
     <item>
       <title>Industrial Policy</title>
-      <link>https://offtheclockmaven.github.io/tags/industrial-policy/</link>
+      <link>http://localhost:1313/tags/industrial-policy/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/industrial-policy/</guid>
+      <guid>http://localhost:1313/tags/industrial-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Investment Thesis</title>
-      <link>https://offtheclockmaven.github.io/tags/investment-thesis/</link>
+      <link>http://localhost:1313/tags/investment-thesis/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/investment-thesis/</guid>
+      <guid>http://localhost:1313/tags/investment-thesis/</guid>
       <description></description>
     </item>
     <item>
       <title>IRA</title>
-      <link>https://offtheclockmaven.github.io/tags/ira/</link>
+      <link>http://localhost:1313/tags/ira/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/ira/</guid>
+      <guid>http://localhost:1313/tags/ira/</guid>
       <description></description>
     </item>
     <item>
       <title>Logistics</title>
-      <link>https://offtheclockmaven.github.io/tags/logistics/</link>
+      <link>http://localhost:1313/tags/logistics/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/logistics/</guid>
+      <guid>http://localhost:1313/tags/logistics/</guid>
       <description></description>
     </item>
     <item>
       <title>Nearshoring</title>
-      <link>https://offtheclockmaven.github.io/tags/nearshoring/</link>
+      <link>http://localhost:1313/tags/nearshoring/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/nearshoring/</guid>
+      <guid>http://localhost:1313/tags/nearshoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Reshoring</title>
-      <link>https://offtheclockmaven.github.io/tags/reshoring/</link>
+      <link>http://localhost:1313/tags/reshoring/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/reshoring/</guid>
+      <guid>http://localhost:1313/tags/reshoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Supply Chain</title>
-      <link>https://offtheclockmaven.github.io/tags/supply-chain/</link>
+      <link>http://localhost:1313/tags/supply-chain/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/supply-chain/</guid>
+      <guid>http://localhost:1313/tags/supply-chain/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://offtheclockmaven.github.io/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Diversification</title>
-      <link>https://offtheclockmaven.github.io/tags/diversification/</link>
+      <link>http://localhost:1313/tags/diversification/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/diversification/</guid>
+      <guid>http://localhost:1313/tags/diversification/</guid>
       <description></description>
     </item>
     <item>
       <title>Dot-Com Bubble</title>
-      <link>https://offtheclockmaven.github.io/tags/dot-com-bubble/</link>
+      <link>http://localhost:1313/tags/dot-com-bubble/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/dot-com-bubble/</guid>
+      <guid>http://localhost:1313/tags/dot-com-bubble/</guid>
       <description></description>
     </item>
     <item>
       <title>Investment Strategy</title>
-      <link>https://offtheclockmaven.github.io/tags/investment-strategy/</link>
+      <link>http://localhost:1313/tags/investment-strategy/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/investment-strategy/</guid>
+      <guid>http://localhost:1313/tags/investment-strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Magnificent 7</title>
-      <link>https://offtheclockmaven.github.io/tags/magnificent-7/</link>
+      <link>http://localhost:1313/tags/magnificent-7/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/magnificent-7/</guid>
+      <guid>http://localhost:1313/tags/magnificent-7/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Concentration</title>
-      <link>https://offtheclockmaven.github.io/tags/market-concentration/</link>
+      <link>http://localhost:1313/tags/market-concentration/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/market-concentration/</guid>
+      <guid>http://localhost:1313/tags/market-concentration/</guid>
       <description></description>
     </item>
     <item>
       <title>RSP</title>
-      <link>https://offtheclockmaven.github.io/tags/rsp/</link>
+      <link>http://localhost:1313/tags/rsp/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/rsp/</guid>
+      <guid>http://localhost:1313/tags/rsp/</guid>
       <description></description>
     </item>
     <item>
       <title>S&amp;P 500</title>
-      <link>https://offtheclockmaven.github.io/tags/sp-500/</link>
+      <link>http://localhost:1313/tags/sp-500/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/sp-500/</guid>
+      <guid>http://localhost:1313/tags/sp-500/</guid>
       <description></description>
     </item>
     <item>
       <title>SPY</title>
-      <link>https://offtheclockmaven.github.io/tags/spy/</link>
+      <link>http://localhost:1313/tags/spy/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/spy/</guid>
+      <guid>http://localhost:1313/tags/spy/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Stocks</title>
-      <link>https://offtheclockmaven.github.io/tags/tech-stocks/</link>
+      <link>http://localhost:1313/tags/tech-stocks/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/tech-stocks/</guid>
+      <guid>http://localhost:1313/tags/tech-stocks/</guid>
       <description></description>
     </item>
     <item>
       <title>Adept AI</title>
-      <link>https://offtheclockmaven.github.io/tags/adept-ai/</link>
+      <link>http://localhost:1313/tags/adept-ai/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/adept-ai/</guid>
+      <guid>http://localhost:1313/tags/adept-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Agentic AI</title>
-      <link>https://offtheclockmaven.github.io/tags/agentic-ai/</link>
+      <link>http://localhost:1313/tags/agentic-ai/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/agentic-ai/</guid>
+      <guid>http://localhost:1313/tags/agentic-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AGI</title>
-      <link>https://offtheclockmaven.github.io/tags/agi/</link>
+      <link>http://localhost:1313/tags/agi/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/agi/</guid>
+      <guid>http://localhost:1313/tags/agi/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Regulation</title>
-      <link>https://offtheclockmaven.github.io/tags/ai-regulation/</link>
+      <link>http://localhost:1313/tags/ai-regulation/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/ai-regulation/</guid>
+      <guid>http://localhost:1313/tags/ai-regulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://offtheclockmaven.github.io/tags/artificial-intelligence/</link>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/artificial-intelligence/</guid>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Future of Technology</title>
-      <link>https://offtheclockmaven.github.io/tags/future-of-technology/</link>
+      <link>http://localhost:1313/tags/future-of-technology/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/future-of-technology/</guid>
+      <guid>http://localhost:1313/tags/future-of-technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>https://offtheclockmaven.github.io/tags/google/</link>
+      <link>http://localhost:1313/tags/google/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/google/</guid>
+      <guid>http://localhost:1313/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Analysis</title>
-      <link>https://offtheclockmaven.github.io/tags/market-analysis/</link>
+      <link>http://localhost:1313/tags/market-analysis/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/market-analysis/</guid>
+      <guid>http://localhost:1313/tags/market-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>https://offtheclockmaven.github.io/tags/microsoft/</link>
+      <link>http://localhost:1313/tags/microsoft/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/microsoft/</guid>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenAI</title>
-      <link>https://offtheclockmaven.github.io/tags/openai/</link>
+      <link>http://localhost:1313/tags/openai/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/openai/</guid>
+      <guid>http://localhost:1313/tags/openai/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Strategy</title>
-      <link>https://offtheclockmaven.github.io/tags/tech-strategy/</link>
+      <link>http://localhost:1313/tags/tech-strategy/</link>
       <pubDate>Fri, 17 Oct 2025 19:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/tech-strategy/</guid>
+      <guid>http://localhost:1313/tags/tech-strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Barrick Gold</title>
-      <link>https://offtheclockmaven.github.io/tags/barrick-gold/</link>
+      <link>http://localhost:1313/tags/barrick-gold/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/barrick-gold/</guid>
+      <guid>http://localhost:1313/tags/barrick-gold/</guid>
       <description></description>
     </item>
     <item>
       <title>Central Banks</title>
-      <link>https://offtheclockmaven.github.io/tags/central-banks/</link>
+      <link>http://localhost:1313/tags/central-banks/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/central-banks/</guid>
+      <guid>http://localhost:1313/tags/central-banks/</guid>
       <description></description>
     </item>
     <item>
       <title>De-Dollarization</title>
-      <link>https://offtheclockmaven.github.io/tags/de-dollarization/</link>
+      <link>http://localhost:1313/tags/de-dollarization/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/de-dollarization/</guid>
+      <guid>http://localhost:1313/tags/de-dollarization/</guid>
       <description></description>
     </item>
     <item>
       <title>Fiat Currency</title>
-      <link>https://offtheclockmaven.github.io/tags/fiat-currency/</link>
+      <link>http://localhost:1313/tags/fiat-currency/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/fiat-currency/</guid>
+      <guid>http://localhost:1313/tags/fiat-currency/</guid>
       <description></description>
     </item>
     <item>
       <title>Gold</title>
-      <link>https://offtheclockmaven.github.io/tags/gold/</link>
+      <link>http://localhost:1313/tags/gold/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/gold/</guid>
+      <guid>http://localhost:1313/tags/gold/</guid>
       <description></description>
     </item>
     <item>
       <title>Gold Mining</title>
-      <link>https://offtheclockmaven.github.io/tags/gold-mining/</link>
+      <link>http://localhost:1313/tags/gold-mining/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/gold-mining/</guid>
+      <guid>http://localhost:1313/tags/gold-mining/</guid>
       <description></description>
     </item>
     <item>
       <title>Inflation</title>
-      <link>https://offtheclockmaven.github.io/tags/inflation/</link>
+      <link>http://localhost:1313/tags/inflation/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/inflation/</guid>
+      <guid>http://localhost:1313/tags/inflation/</guid>
       <description></description>
     </item>
     <item>
       <title>Monetary Policy</title>
-      <link>https://offtheclockmaven.github.io/tags/monetary-policy/</link>
+      <link>http://localhost:1313/tags/monetary-policy/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/monetary-policy/</guid>
+      <guid>http://localhost:1313/tags/monetary-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Newmont</title>
-      <link>https://offtheclockmaven.github.io/tags/newmont/</link>
+      <link>http://localhost:1313/tags/newmont/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/newmont/</guid>
+      <guid>http://localhost:1313/tags/newmont/</guid>
       <description></description>
     </item>
     <item>
       <title>Peak Gold</title>
-      <link>https://offtheclockmaven.github.io/tags/peak-gold/</link>
+      <link>http://localhost:1313/tags/peak-gold/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/peak-gold/</guid>
+      <guid>http://localhost:1313/tags/peak-gold/</guid>
       <description></description>
     </item>
     <item>
       <title>Ray Dalio</title>
-      <link>https://offtheclockmaven.github.io/tags/ray-dalio/</link>
+      <link>http://localhost:1313/tags/ray-dalio/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/ray-dalio/</guid>
+      <guid>http://localhost:1313/tags/ray-dalio/</guid>
       <description></description>
     </item>
     <item>
       <title>Argentina</title>
-      <link>https://offtheclockmaven.github.io/tags/argentina/</link>
+      <link>http://localhost:1313/tags/argentina/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/argentina/</guid>
+      <guid>http://localhost:1313/tags/argentina/</guid>
       <description></description>
     </item>
     <item>
       <title>Bolivia</title>
-      <link>https://offtheclockmaven.github.io/tags/bolivia/</link>
+      <link>http://localhost:1313/tags/bolivia/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/bolivia/</guid>
+      <guid>http://localhost:1313/tags/bolivia/</guid>
       <description></description>
     </item>
     <item>
       <title>Chile</title>
-      <link>https://offtheclockmaven.github.io/tags/chile/</link>
+      <link>http://localhost:1313/tags/chile/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/chile/</guid>
+      <guid>http://localhost:1313/tags/chile/</guid>
       <description></description>
     </item>
     <item>
       <title>China</title>
-      <link>https://offtheclockmaven.github.io/tags/china/</link>
+      <link>http://localhost:1313/tags/china/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/china/</guid>
+      <guid>http://localhost:1313/tags/china/</guid>
       <description></description>
     </item>
     <item>
       <title>Commodity Crash</title>
-      <link>https://offtheclockmaven.github.io/tags/commodity-crash/</link>
+      <link>http://localhost:1313/tags/commodity-crash/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/commodity-crash/</guid>
+      <guid>http://localhost:1313/tags/commodity-crash/</guid>
       <description></description>
     </item>
     <item>
       <title>DLE</title>
-      <link>https://offtheclockmaven.github.io/tags/dle/</link>
+      <link>http://localhost:1313/tags/dle/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/dle/</guid>
+      <guid>http://localhost:1313/tags/dle/</guid>
       <description></description>
     </item>
     <item>
       <title>EVs</title>
-      <link>https://offtheclockmaven.github.io/tags/evs/</link>
+      <link>http://localhost:1313/tags/evs/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/evs/</guid>
+      <guid>http://localhost:1313/tags/evs/</guid>
       <description></description>
     </item>
     <item>
       <title>Lithium</title>
-      <link>https://offtheclockmaven.github.io/tags/lithium/</link>
+      <link>http://localhost:1313/tags/lithium/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/lithium/</guid>
+      <guid>http://localhost:1313/tags/lithium/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Cycle</title>
-      <link>https://offtheclockmaven.github.io/tags/market-cycle/</link>
+      <link>http://localhost:1313/tags/market-cycle/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/market-cycle/</guid>
+      <guid>http://localhost:1313/tags/market-cycle/</guid>
       <description></description>
     </item>
     <item>
       <title>Resource Nationalism</title>
-      <link>https://offtheclockmaven.github.io/tags/resource-nationalism/</link>
+      <link>http://localhost:1313/tags/resource-nationalism/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/resource-nationalism/</guid>
+      <guid>http://localhost:1313/tags/resource-nationalism/</guid>
       <description></description>
     </item>
     <item>
       <title>Sodium-Ion Batteries</title>
-      <link>https://offtheclockmaven.github.io/tags/sodium-ion-batteries/</link>
+      <link>http://localhost:1313/tags/sodium-ion-batteries/</link>
       <pubDate>Fri, 17 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/sodium-ion-batteries/</guid>
+      <guid>http://localhost:1313/tags/sodium-ion-batteries/</guid>
       <description></description>
     </item>
     <item>
       <title>Eli Lilly</title>
-      <link>https://offtheclockmaven.github.io/tags/eli-lilly/</link>
+      <link>http://localhost:1313/tags/eli-lilly/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/eli-lilly/</guid>
+      <guid>http://localhost:1313/tags/eli-lilly/</guid>
       <description></description>
     </item>
     <item>
       <title>Food Industry</title>
-      <link>https://offtheclockmaven.github.io/tags/food-industry/</link>
+      <link>http://localhost:1313/tags/food-industry/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/food-industry/</guid>
+      <guid>http://localhost:1313/tags/food-industry/</guid>
       <description></description>
     </item>
     <item>
       <title>GLP-1</title>
-      <link>https://offtheclockmaven.github.io/tags/glp-1/</link>
+      <link>http://localhost:1313/tags/glp-1/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/glp-1/</guid>
+      <guid>http://localhost:1313/tags/glp-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Disruption</title>
-      <link>https://offtheclockmaven.github.io/tags/market-disruption/</link>
+      <link>http://localhost:1313/tags/market-disruption/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/market-disruption/</guid>
+      <guid>http://localhost:1313/tags/market-disruption/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Devices</title>
-      <link>https://offtheclockmaven.github.io/tags/medical-devices/</link>
+      <link>http://localhost:1313/tags/medical-devices/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/medical-devices/</guid>
+      <guid>http://localhost:1313/tags/medical-devices/</guid>
       <description></description>
     </item>
     <item>
       <title>Novo Nordisk</title>
-      <link>https://offtheclockmaven.github.io/tags/novo-nordisk/</link>
+      <link>http://localhost:1313/tags/novo-nordisk/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/novo-nordisk/</guid>
+      <guid>http://localhost:1313/tags/novo-nordisk/</guid>
       <description></description>
     </item>
     <item>
       <title>Ozempic</title>
-      <link>https://offtheclockmaven.github.io/tags/ozempic/</link>
+      <link>http://localhost:1313/tags/ozempic/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/ozempic/</guid>
+      <guid>http://localhost:1313/tags/ozempic/</guid>
       <description></description>
     </item>
     <item>
       <title>Stock Analysis</title>
-      <link>https://offtheclockmaven.github.io/tags/stock-analysis/</link>
+      <link>http://localhost:1313/tags/stock-analysis/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/stock-analysis/</guid>
+      <guid>http://localhost:1313/tags/stock-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Weight Loss Drugs</title>
-      <link>https://offtheclockmaven.github.io/tags/weight-loss-drugs/</link>
+      <link>http://localhost:1313/tags/weight-loss-drugs/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/weight-loss-drugs/</guid>
+      <guid>http://localhost:1313/tags/weight-loss-drugs/</guid>
       <description></description>
     </item>
     <item>
       <title>Zepbound</title>
-      <link>https://offtheclockmaven.github.io/tags/zepbound/</link>
+      <link>http://localhost:1313/tags/zepbound/</link>
       <pubDate>Thu, 16 Oct 2025 11:00:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/zepbound/</guid>
+      <guid>http://localhost:1313/tags/zepbound/</guid>
       <description></description>
     </item>
     <item>
-      <title>Apple</title>
-      <link>https://offtheclockmaven.github.io/tags/apple/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/apple/</guid>
+      <title>ANET</title>
+      <link>http://localhost:1313/tags/anet/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/anet/</guid>
       <description></description>
     </item>
     <item>
-      <title>CPI</title>
-      <link>https://offtheclockmaven.github.io/tags/cpi/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/cpi/</guid>
+      <title>Arista Networks</title>
+      <link>http://localhost:1313/tags/arista-networks/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/arista-networks/</guid>
       <description></description>
     </item>
     <item>
-      <title>Federal Reserve</title>
-      <link>https://offtheclockmaven.github.io/tags/federal-reserve/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/federal-reserve/</guid>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/cloud-computing/</guid>
       <description></description>
     </item>
     <item>
-      <title>FOMC</title>
-      <link>https://offtheclockmaven.github.io/tags/fomc/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/fomc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hedging</title>
-      <link>https://offtheclockmaven.github.io/tags/hedging/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/hedging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Investor Sentiment</title>
-      <link>https://offtheclockmaven.github.io/tags/investor-sentiment/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/investor-sentiment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magnificent Seven</title>
-      <link>https://offtheclockmaven.github.io/tags/magnificent-seven/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/magnificent-seven/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NFP</title>
-      <link>https://offtheclockmaven.github.io/tags/nfp/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/nfp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nvidia</title>
-      <link>https://offtheclockmaven.github.io/tags/nvidia/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/nvidia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Online Forums</title>
-      <link>https://offtheclockmaven.github.io/tags/online-forums/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/online-forums/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recession</title>
-      <link>https://offtheclockmaven.github.io/tags/recession/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/recession/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stock Valuation</title>
-      <link>https://offtheclockmaven.github.io/tags/stock-valuation/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/stock-valuation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>VIX</title>
-      <link>https://offtheclockmaven.github.io/tags/vix/</link>
-      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/vix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bloom Energy</title>
-      <link>https://offtheclockmaven.github.io/tags/bloom-energy/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/bloom-energy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cooling Systems</title>
-      <link>https://offtheclockmaven.github.io/tags/cooling-systems/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/cooling-systems/</guid>
+      <title>Data Center</title>
+      <link>http://localhost:1313/tags/data-center/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/data-center/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Centers</title>
-      <link>https://offtheclockmaven.github.io/tags/data-centers/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/data-centers/</guid>
+      <link>http://localhost:1313/tags/data-centers/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/data-centers/</guid>
       <description></description>
     </item>
     <item>
-      <title>Eaton</title>
-      <link>https://offtheclockmaven.github.io/tags/eaton/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/eaton/</guid>
+      <title>Digital Realty</title>
+      <link>http://localhost:1313/tags/digital-realty/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/digital-realty/</guid>
       <description></description>
     </item>
     <item>
-      <title>Energy Crisis</title>
-      <link>https://offtheclockmaven.github.io/tags/energy-crisis/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/energy-crisis/</guid>
+      <title>DLR</title>
+      <link>http://localhost:1313/tags/dlr/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/dlr/</guid>
       <description></description>
     </item>
     <item>
-      <title>Schneider Electric</title>
-      <link>https://offtheclockmaven.github.io/tags/schneider-electric/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/schneider-electric/</guid>
+      <title>Economic Cycle</title>
+      <link>http://localhost:1313/tags/economic-cycle/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/economic-cycle/</guid>
       <description></description>
     </item>
     <item>
-      <title>SMR</title>
-      <link>https://offtheclockmaven.github.io/tags/smr/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/smr/</guid>
+      <title>EQIX</title>
+      <link>http://localhost:1313/tags/eqix/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/eqix/</guid>
       <description></description>
     </item>
     <item>
-      <title>Vertiv</title>
-      <link>https://offtheclockmaven.github.io/tags/vertiv/</link>
-      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/vertiv/</guid>
+      <title>Equinix</title>
+      <link>http://localhost:1313/tags/equinix/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/equinix/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bad News Is Good News</title>
-      <link>https://offtheclockmaven.github.io/tags/bad-news-is-good-news/</link>
-      <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/bad-news-is-good-news/</guid>
+      <title>Ethernet</title>
+      <link>http://localhost:1313/tags/ethernet/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/ethernet/</guid>
       <description></description>
     </item>
     <item>
-      <title>Government Shutdown</title>
-      <link>https://offtheclockmaven.github.io/tags/government-shutdown/</link>
-      <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/government-shutdown/</guid>
+      <title>Fama-French</title>
+      <link>http://localhost:1313/tags/fama-french/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/fama-french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Federal Reserve</title>
+      <link>http://localhost:1313/tags/federal-reserve/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/federal-reserve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperscalers</title>
+      <link>http://localhost:1313/tags/hyperscalers/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/hyperscalers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>InfiniBand</title>
+      <link>http://localhost:1313/tags/infiniband/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/infiniband/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>http://localhost:1313/tags/infrastructure/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Interest Rates</title>
-      <link>https://offtheclockmaven.github.io/tags/interest-rates/</link>
+      <link>http://localhost:1313/tags/interest-rates/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/interest-rates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment</title>
+      <link>http://localhost:1313/tags/investment/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Large Caps</title>
+      <link>http://localhost:1313/tags/large-caps/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/large-caps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liquid Cooling</title>
+      <link>http://localhost:1313/tags/liquid-cooling/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/liquid-cooling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>M&amp;A</title>
+      <link>http://localhost:1313/tags/ma/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/ma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NVDA</title>
+      <link>http://localhost:1313/tags/nvda/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/nvda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nvidia</title>
+      <link>http://localhost:1313/tags/nvidia/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/nvidia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REITs</title>
+      <link>http://localhost:1313/tags/reits/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/reits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russell 2000</title>
+      <link>http://localhost:1313/tags/russell-2000/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/russell-2000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Small Caps</title>
+      <link>http://localhost:1313/tags/small-caps/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/small-caps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vertiv</title>
+      <link>http://localhost:1313/tags/vertiv/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/vertiv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRT</title>
+      <link>http://localhost:1313/tags/vrt/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/vrt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple</title>
+      <link>http://localhost:1313/tags/apple/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CPI</title>
+      <link>http://localhost:1313/tags/cpi/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/cpi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FOMC</title>
+      <link>http://localhost:1313/tags/fomc/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/fomc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hedging</title>
+      <link>http://localhost:1313/tags/hedging/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/hedging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investor Sentiment</title>
+      <link>http://localhost:1313/tags/investor-sentiment/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/investor-sentiment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magnificent Seven</title>
+      <link>http://localhost:1313/tags/magnificent-seven/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/magnificent-seven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NFP</title>
+      <link>http://localhost:1313/tags/nfp/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/nfp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online Forums</title>
+      <link>http://localhost:1313/tags/online-forums/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/online-forums/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recession</title>
+      <link>http://localhost:1313/tags/recession/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/recession/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stock Valuation</title>
+      <link>http://localhost:1313/tags/stock-valuation/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/stock-valuation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VIX</title>
+      <link>http://localhost:1313/tags/vix/</link>
+      <pubDate>Tue, 14 Oct 2025 13:15:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/vix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bloom Energy</title>
+      <link>http://localhost:1313/tags/bloom-energy/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/bloom-energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cooling Systems</title>
+      <link>http://localhost:1313/tags/cooling-systems/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/cooling-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eaton</title>
+      <link>http://localhost:1313/tags/eaton/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/eaton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy Crisis</title>
+      <link>http://localhost:1313/tags/energy-crisis/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/energy-crisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schneider Electric</title>
+      <link>http://localhost:1313/tags/schneider-electric/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/schneider-electric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMR</title>
+      <link>http://localhost:1313/tags/smr/</link>
+      <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/smr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bad News Is Good News</title>
+      <link>http://localhost:1313/tags/bad-news-is-good-news/</link>
       <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/interest-rates/</guid>
+      <guid>http://localhost:1313/tags/bad-news-is-good-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Government Shutdown</title>
+      <link>http://localhost:1313/tags/government-shutdown/</link>
+      <pubDate>Mon, 13 Oct 2025 08:21:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/government-shutdown/</guid>
       <description></description>
     </item>
     <item>
       <title>AMD</title>
-      <link>https://offtheclockmaven.github.io/tags/amd/</link>
+      <link>http://localhost:1313/tags/amd/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/amd/</guid>
+      <guid>http://localhost:1313/tags/amd/</guid>
       <description></description>
     </item>
     <item>
       <title>GPU</title>
-      <link>https://offtheclockmaven.github.io/tags/gpu/</link>
+      <link>http://localhost:1313/tags/gpu/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/gpu/</guid>
+      <guid>http://localhost:1313/tags/gpu/</guid>
       <description></description>
     </item>
     <item>
       <title>Instinct MI450</title>
-      <link>https://offtheclockmaven.github.io/tags/instinct-mi450/</link>
+      <link>http://localhost:1313/tags/instinct-mi450/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/instinct-mi450/</guid>
+      <guid>http://localhost:1313/tags/instinct-mi450/</guid>
       <description></description>
     </item>
     <item>
       <title>Semiconductors</title>
-      <link>https://offtheclockmaven.github.io/tags/semiconductors/</link>
+      <link>http://localhost:1313/tags/semiconductors/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/tags/semiconductors/</guid>
+      <guid>http://localhost:1313/tags/semiconductors/</guid>
       <description></description>
     </item>
   </channel>

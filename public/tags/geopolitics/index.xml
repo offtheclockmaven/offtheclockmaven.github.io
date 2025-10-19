@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Geopolitics on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/geopolitics/</link>
+    <link>http://localhost:1313/tags/geopolitics/</link>
     <description>Recent content in Geopolitics on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 01:10:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/geopolitics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/geopolitics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond Globalization: Investing in the Decade of the Re-Wired Supply Chain</title>
-      <link>https://offtheclockmaven.github.io/posts/investing-in-rewired-supply-chains/</link>
+      <link>http://localhost:1313/posts/investing-in-rewired-supply-chains/</link>
       <pubDate>Sat, 18 Oct 2025 01:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/investing-in-rewired-supply-chains/</guid>
+      <guid>http://localhost:1313/posts/investing-in-rewired-supply-chains/</guid>
       <description>An in-depth analysis of the investment opportunities arising from the global supply chain rewiring, driven by geopolitical shifts and industrial policies like the CHIPS Act and IRA.</description>
     </item>
     <item>
       <title>The Great Re-Pricing: Decoding Gold&#39;s Endgame in a World of Fiat Fatigue</title>
-      <link>https://offtheclockmaven.github.io/posts/the-great-re-pricing-decoding-golds-endgame/</link>
+      <link>http://localhost:1313/posts/the-great-re-pricing-decoding-golds-endgame/</link>
       <pubDate>Fri, 17 Oct 2025 12:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/the-great-re-pricing-decoding-golds-endgame/</guid>
+      <guid>http://localhost:1313/posts/the-great-re-pricing-decoding-golds-endgame/</guid>
       <description>An in-depth analysis of the 2025 gold rally, exploring the structural shift driven by central bank de-dollarization, the &amp;#39;debasement trade&amp;#39; thesis from macro investors, peak gold supply constraints, and the future of gold&amp;#39;s role in a changing global financial system.</description>
     </item>
     <item>
       <title>Lithium&#39;s Great Game: Deconstructing the &#39;New OPEC&#39; Myth and China&#39;s Stranglehold</title>
-      <link>https://offtheclockmaven.github.io/posts/lithium-geopolitics-opec-myth-china-dominance/</link>
+      <link>http://localhost:1313/posts/lithium-geopolitics-opec-myth-china-dominance/</link>
       <pubDate>Thu, 16 Oct 2025 15:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/lithium-geopolitics-opec-myth-china-dominance/</guid>
+      <guid>http://localhost:1313/posts/lithium-geopolitics-opec-myth-china-dominance/</guid>
       <description>A deep-dive analysis into the geopolitics of lithium, debunking the &amp;#39;Lithium OPEC&amp;#39; theory by examining the fractured politics of South America&amp;#39;s Lithium Triangle and exposing China&amp;#39;s strategic dominance over the global supply chain.</description>
     </item>
   </channel>

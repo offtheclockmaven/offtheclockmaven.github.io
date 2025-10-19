@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Investment Analysis on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/investment-analysis/</link>
+    <link>http://localhost:1313/tags/investment-analysis/</link>
     <description>Recent content in Investment Analysis on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 03:10:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/investment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/investment-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Strategic Framework for Investors: A Scenario-Based Decision-Making Guide</title>
-      <link>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</link>
+      <link>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</guid>
+      <guid>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</guid>
       <description>An in-depth guide for global investors on advanced decision-making. Learn to distinguish market dips from &amp;#39;falling knives,&amp;#39; master sell strategies, value high-growth unprofitable companies, and navigate cognitive biases in narrative-driven markets.</description>
     </item>
   </channel>

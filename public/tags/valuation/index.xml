@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Valuation on Off The Clock Maven</title>
-    <link>https://offtheclockmaven.github.io/tags/valuation/</link>
+    <link>http://localhost:1313/tags/valuation/</link>
     <description>Recent content in Valuation on Off The Clock Maven</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 03:10:00 +0900</lastBuildDate>
-    <atom:link href="https://offtheclockmaven.github.io/tags/valuation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/valuation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Strategic Framework for Investors: A Scenario-Based Decision-Making Guide</title>
-      <link>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</link>
+      <link>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</link>
       <pubDate>Sat, 18 Oct 2025 03:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</guid>
+      <guid>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</guid>
       <description>An in-depth guide for global investors on advanced decision-making. Learn to distinguish market dips from &amp;#39;falling knives,&amp;#39; master sell strategies, value high-growth unprofitable companies, and navigate cognitive biases in narrative-driven markets.</description>
     </item>
     <item>
       <title>Beyond the Bubble: Deconstructing Market Concentration in the AI Era</title>
-      <link>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</link>
+      <link>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</link>
       <pubDate>Fri, 17 Oct 2025 21:10:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</guid>
+      <guid>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</guid>
       <description>An in-depth analysis of the historic S&amp;amp;P 500 market concentration in the AI era. This report deconstructs why today&amp;#39;s market, led by the Magnificent 7, is fundamentally different from the dot-com bubble, focusing on profitability and cash flow. It explores the risks of high valuations and offers strategic investment insights for navigating a top-heavy market.</description>
     </item>
     <item>
+      <title>The Small-Cap Spring: Why the Market&#39;s Forgotten Players Are Poised for a Major Comeback</title>
+      <link>http://localhost:1313/posts/small-cap-rebound-analysis-2025/</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/small-cap-rebound-analysis-2025/</guid>
+      <description>An in-depth analysis of the historic valuation gap between small-cap and large-cap stocks. This report explores the potential for a significant small-cap rebound, driven by catalysts like Federal Reserve policy shifts, broadening economic growth, and increased M&amp;amp;A activity.</description>
+    </item>
+    <item>
       <title>The AI Energy Crisis: A Deep Dive into the Trillion-Dollar Power Problem</title>
-      <link>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</link>
+      <link>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</link>
       <pubDate>Tue, 14 Oct 2025 10:31:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</guid>
+      <guid>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</guid>
       <description>A comprehensive analysis of the AI-induced energy crisis, exploring the market cycle, key corporate players in cooling and power, their financial health, and the long-term solutions like SMRs.</description>
     </item>
     <item>
       <title>AMD&#39;s Ascent: Deconstructing the OpenAI Deal and Valuing a New AI Titan</title>
-      <link>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</link>
+      <link>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</link>
       <pubDate>Mon, 06 Oct 2025 08:21:00 +0900</pubDate>
-      <guid>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</guid>
+      <guid>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</guid>
       <description>A deep-dive analysis of the landmark AMD-OpenAI partnership, its financial impact, and a data-driven valuation of AMD as a new titan in the AI hardware market.</description>
     </item>
   </channel>

@@ -1,670 +1,482 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://offtheclockmaven.github.io/posts/advanced-strategic-framework-for-investors/</loc>
+    <loc>http://localhost:1313/posts/advanced-strategic-framework-for-investors/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/behavioral-finance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/behavioral-finance/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/buy-the-dip/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/buy-the-dip/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/cognitive-bias/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cognitive-bias/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/exit-strategy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/exit-strategy/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/falling-knife/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/falling-knife/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/growth-investing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/growth-investing/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/investing-strategy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/investing-strategy/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/investment-analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/investment-analysis/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/risk-management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/risk-management/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/stock-market/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-market/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/valuation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/valuation/</loc>
     <lastmod>2025-10-18T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/automation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/automation/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/investing-in-rewired-supply-chains/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/investing-in-rewired-supply-chains/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/chips-act/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/chips-act/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/friendshoring/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/friendshoring/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/geopolitics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/geopolitics/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/industrial-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/industrial-policy/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/investment-strategy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/investment-strategy/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/investment-thesis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/investment-thesis/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/ira/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ira/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/logistics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/logistics/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/nearshoring/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nearshoring/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/reshoring/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/reshoring/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/supply-chain/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/supply-chain/</loc>
     <lastmod>2025-10-18T01:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/ai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/beyond-the-bubble-market-concentration-ai-era/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/beyond-the-bubble-market-concentration-ai-era/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/diversification/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/diversification/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/dot-com-bubble/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/dot-com-bubble/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/investment-analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/investment-analysis/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/investment-strategy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/investment-strategy/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/magnificent-7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/magnificent-7/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/market-concentration/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/market-concentration/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/rsp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/rsp/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/sp-500/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sp-500/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/spy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/spy/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/tech-stocks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech-stocks/</loc>
     <lastmod>2025-10-17T21:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/adept-ai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/adept-ai/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/agentic-ai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/agentic-ai/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/agi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/agi/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/ai-regulation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai-regulation/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/artificial-intelligence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/artificial-intelligence/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/artificial-intelligence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/future-of-technology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/future-of-technology/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/google/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/google/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/market-analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/market-analysis/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/microsoft/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/microsoft/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/openai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/openai/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/tech-strategy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech-strategy/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/agentic-ai-revolution-2025-strategic-deep-dive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/agentic-ai-revolution-2025-strategic-deep-dive/</loc>
     <lastmod>2025-10-17T19:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/barrick-gold/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/barrick-gold/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/central-banks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/central-banks/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/de-dollarization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/de-dollarization/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/fiat-currency/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/fiat-currency/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/gold/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/gold/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/gold-mining/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/gold-mining/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/inflation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/inflation/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/market-analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/market-analysis/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/monetary-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/monetary-policy/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/newmont/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/newmont/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/peak-gold/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/peak-gold/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/ray-dalio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ray-dalio/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/the-great-re-pricing-decoding-golds-endgame/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-great-re-pricing-decoding-golds-endgame/</loc>
     <lastmod>2025-10-17T12:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/argentina/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/argentina/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/bolivia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/bolivia/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/chile/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/chile/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/china/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/china/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/commodities/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/commodities/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/commodity-crash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/commodity-crash/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/dle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/dle/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/evs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/evs/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/geopolitics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/geopolitics/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/lithium/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/lithium/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/market-cycle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/market-cycle/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/resource-nationalism/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/resource-nationalism/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/sodium-ion-batteries/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sodium-ion-batteries/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/lithium-market-hangover-geopolitics-china/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/lithium-market-hangover-geopolitics-china/</loc>
     <lastmod>2025-10-17T03:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/lithium-geopolitics-opec-myth-china-dominance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/lithium-geopolitics-opec-myth-china-dominance/</loc>
     <lastmod>2025-10-16T15:10:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/eli-lilly/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/eli-lilly/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/food-industry/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/food-industry/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/glp-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/glp-1/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/healthcare/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/healthcare/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/market-disruption/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/market-disruption/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/medical-devices/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/medical-devices/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/novo-nordisk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/novo-nordisk/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/ozempic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ozempic/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/pharmaceuticals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/pharmaceuticals/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/stock-analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-analysis/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/glp-1-ozempic-effect-economic-analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/glp-1-ozempic-effect-economic-analysis/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/weight-loss-drugs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/weight-loss-drugs/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/zepbound/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/zepbound/</loc>
     <lastmod>2025-10-16T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/apple/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/ai-infrastructure-battlegrounds-power-cooling-networking/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/anet/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arista-networks/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud-computing/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-center/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-centers/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/data-center-reits-ai-investment-analysis-dlr-eqix/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/digital-realty/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dlr/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/economic-cycle/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/eqix/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/equinix/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ethernet/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fama-french/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/federal-reserve/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hyperscalers/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infiniband/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infrastructure/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/interest-rates/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/investment/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/large-caps/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/liquid-cooling/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ma/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nvda/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nvidia/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reits/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/russell-2000/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/small-caps/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/small-cap-rebound-analysis-2025/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vertiv/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vrt/</loc>
+    <lastmod>2025-10-15T15:10:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/apple/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/cpi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cpi/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/federal-reserve/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/fomc/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/fomc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/hedging/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/hedging/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/investor-sentiment/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/investor-sentiment/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/macroeconomics/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/macroeconomics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/magnificent-seven/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/magnificent-seven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/market-commentary/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/market-commentary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-market-analysis-fed-forums-investing-guide/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/2025-market-analysis-fed-forums-investing-guide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nfp/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/nfp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/online-forums/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/nvidia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/recession/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/online-forums/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/stock-valuation/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/recession/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/vix/</loc>
     <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/stock-valuation/</loc>
-    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/vix/</loc>
-    <lastmod>2025-10-14T13:15:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/bloom-energy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/bloom-energy/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/cooling-systems/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cooling-systems/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/data-centers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/eaton/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/eaton/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/energy/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/energy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/energy-crisis/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/energy-crisis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/schneider-electric/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/schneider-electric/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/smr/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/smr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/technology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/ai-energy-crisis-deep-dive-analysis/</loc>
     <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/ai-energy-crisis-deep-dive-analysis/</loc>
-    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/vertiv/</loc>
-    <lastmod>2025-10-14T10:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/bad-news-is-good-news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/bad-news-is-good-news/</loc>
     <lastmod>2025-10-13T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/economics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/economics/</loc>
     <lastmod>2025-10-13T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/government-shutdown/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/government-shutdown/</loc>
     <lastmod>2025-10-13T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/interest-rates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/monetary-policy/</loc>
     <lastmod>2025-10-13T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/categories/monetary-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/government-shutdown-fed-dilemma-market-reaction/</loc>
     <lastmod>2025-10-13T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/government-shutdown-fed-dilemma-market-reaction/</loc>
-    <lastmod>2025-10-13T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/amd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/amd/</loc>
+    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/amd-openai-deal-analysis-valuation/</loc>
+    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gpu/</loc>
+    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/instinct-mi450/</loc>
+    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/semiconductors/</loc>
     <lastmod>2025-10-06T08:21:00+09:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/posts/amd-openai-deal-analysis-valuation/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/gpu/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/instinct-mi450/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://offtheclockmaven.github.io/tags/semiconductors/</loc>
-    <lastmod>2025-10-06T08:21:00+09:00</lastmod>
-  </url>
-  
 </urlset>
